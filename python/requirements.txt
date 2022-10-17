@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+pathlib
+scikit-learn
+kaggle
+matplotlib
+localstack-client
+localstack
+awscli-local
+jupyterlab
+jupyterlab-git
